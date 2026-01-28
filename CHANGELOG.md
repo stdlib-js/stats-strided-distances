@@ -10,7 +10,6 @@
 
 ### Features
 
--   [`aa4cdfd`](https://github.com/stdlib-js/stdlib/commit/aa4cdfd5a67ada2e018c7970c4a777187280cce2) - update `stats/strided/distances` TypeScript declarations [(#9936)](https://github.com/stdlib-js/stdlib/pull/9936)
 -   [`262f96d`](https://github.com/stdlib-js/stdlib/commit/262f96df7fe35057b1ad9a29802497f935788600) - update namespace
 -   [`d0e3e71`](https://github.com/stdlib-js/stdlib/commit/d0e3e71f26da59d042df4ae94869589ee17f237a) - add `stats/strided/distances` namespace
 -   [`0538a41`](https://github.com/stdlib-js/stdlib/commit/0538a41cc4147040c041d86068fce07ecfdca36d) - add `stats/strided/distances/dsquared-euclidean` [(#9680)](https://github.com/stdlib-js/stdlib/pull/9680)
@@ -40,7 +39,6 @@
 
 <details>
 
--   [`aa4cdfd`](https://github.com/stdlib-js/stdlib/commit/aa4cdfd5a67ada2e018c7970c4a777187280cce2) - **feat:** update `stats/strided/distances` TypeScript declarations [(#9936)](https://github.com/stdlib-js/stdlib/pull/9936) _(by stdlib-bot)_
 -   [`a87bde4`](https://github.com/stdlib-js/stdlib/commit/a87bde4102c9e3637ab02b18b39de03815e8d927) - **docs:** update namespace table of contents [(#9938)](https://github.com/stdlib-js/stdlib/pull/9938) _(by stdlib-bot)_
 -   [`640d00d`](https://github.com/stdlib-js/stdlib/commit/640d00d5567707d2dcef81f1e6fafbdb947b6eab) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`262f96d`](https://github.com/stdlib-js/stdlib/commit/262f96df7fe35057b1ad9a29802497f935788600) - **feat:** update namespace _(by Athan Reines)_
