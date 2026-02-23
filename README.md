@@ -88,7 +88,6 @@ The namespace exports the following:
 
 <div class="namespace-toc">
 
--   <span class="signature">[`dchebychev( N, x, strideX, y, strideY )`][@stdlib/stats/strided/distances/dchebychev]</span><span class="delimiter">: </span><span class="description">compute the Chebychev distance between two double-precision floating-point strided arrays.</span>
 -   <span class="signature">[`dcityblock( N, x, strideX, y, strideY )`][@stdlib/stats/strided/distances/dcityblock]</span><span class="delimiter">: </span><span class="description">compute the city block (Manhattan) distance between two double-precision floating-point strided arrays.</span>
 -   <span class="signature">[`dcosineDistance( N, x, strideX, y, strideY )`][@stdlib/stats/strided/distances/dcosine-distance]</span><span class="delimiter">: </span><span class="description">compute the cosine distance between two double-precision floating-point strided arrays.</span>
 -   <span class="signature">[`dcosineSimilarity( N, x, strideX, y, strideY )`][@stdlib/stats/strided/distances/dcosine-similarity]</span><span class="delimiter">: </span><span class="description">compute the cosine similarity of two double-precision floating-point strided arrays.</span>
@@ -179,8 +178,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/stats-strided-distances.svg
 [npm-url]: https://npmjs.org/package/@stdlib/stats-strided-distances
 
-[test-image]: https://github.com/stdlib-js/stats-strided-distances/actions/workflows/test.yml/badge.svg?branch=v0.1.1
-[test-url]: https://github.com/stdlib-js/stats-strided-distances/actions/workflows/test.yml?query=branch:v0.1.1
+[test-image]: https://github.com/stdlib-js/stats-strided-distances/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/stats-strided-distances/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/stats-strided-distances/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/stats-strided-distances?branch=main
@@ -213,8 +212,6 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/stats-strided-distances/main/LICENSE
 
 <!-- <toc-links> -->
-
-[@stdlib/stats/strided/distances/dchebychev]: https://github.com/stdlib-js/stats-strided-distances-dchebychev
 
 [@stdlib/stats/strided/distances/dcityblock]: https://github.com/stdlib-js/stats-strided-distances-dcityblock
 
