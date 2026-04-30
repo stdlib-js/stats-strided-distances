@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-03)
+## Unreleased (2026-04-30)
 
 <section class="features">
 
@@ -44,6 +44,8 @@
 
 <details>
 
+-   [`8041e27`](https://github.com/stdlib-js/stdlib/commit/8041e27c906d582e5a32a1edd599b9ea12422219) - **docs:** update markup [(#10852)](https://github.com/stdlib-js/stdlib/pull/10852) _(by stdlib-bot)_
+-   [`b2dc6c7`](https://github.com/stdlib-js/stdlib/commit/b2dc6c7d1107be6c9bc2accfb56a703c2c81ea37) - **refactor:** remove redundant code from `stats/strided/distances/dcityblock` [(#10690)](https://github.com/stdlib-js/stdlib/pull/10690) _(by Nakul Krishnakumar)_
 -   [`278b4c0`](https://github.com/stdlib-js/stdlib/commit/278b4c0aa7da4e546722a9b5e91c4889b8fcdae8) - **feat:** update `stats/strided/distances` TypeScript declarations [(#10667)](https://github.com/stdlib-js/stdlib/pull/10667) _(by stdlib-bot)_
 -   [`63d2333`](https://github.com/stdlib-js/stdlib/commit/63d233347e79e1c70485d93307f5e3f9de4f1308) - **docs:** update namespace table of contents [(#10668)](https://github.com/stdlib-js/stdlib/pull/10668) _(by stdlib-bot)_
 -   [`605b1df`](https://github.com/stdlib-js/stdlib/commit/605b1dfa2f484bb76264475b1308c883a08eab75) - **chore:** minor clean-up _(by Philipp Burckhardt)_
