@@ -4,12 +4,14 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-30)
+## Unreleased (2026-05-05)
 
 <section class="features">
 
 ### Features
 
+-   [`c5fad82`](https://github.com/stdlib-js/stdlib/commit/c5fad82b2d766118634d3796230c2158a4040d13) - add `dcorrelation` to namespace
+-   [`73653a2`](https://github.com/stdlib-js/stdlib/commit/73653a29dcd13f29dc66c1ceaf02a482606aca0a) - add `stats/strided/distances/dcorrelation` [(#11917)](https://github.com/stdlib-js/stdlib/pull/11917)
 -   [`278b4c0`](https://github.com/stdlib-js/stdlib/commit/278b4c0aa7da4e546722a9b5e91c4889b8fcdae8) - update `stats/strided/distances` TypeScript declarations [(#10667)](https://github.com/stdlib-js/stdlib/pull/10667)
 -   [`ca008ab`](https://github.com/stdlib-js/stdlib/commit/ca008ab16b38a0a428413fd78ffc689e2be0bb6f) - add `dchebyshev` to namespace
 -   [`ef03050`](https://github.com/stdlib-js/stdlib/commit/ef0305025b8a22090c88d891db824d22da1f2dcf) - add `dminkowski` to namespace
@@ -19,6 +21,17 @@
 </section>
 
 <!-- /.features -->
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`a65e1fd`](https://github.com/stdlib-js/stdlib/commit/a65e1fd9f921616b23244200dc09c0f87981a1c5) - add suffix wrappers and replace inline NaN literal [(#11947)](https://github.com/stdlib-js/stdlib/pull/11947)
+-   [`8516750`](https://github.com/stdlib-js/stdlib/commit/851675024a46ddac355e48493759d1e793a1de8a) - add missing suffix wrappers [(#11904)](https://github.com/stdlib-js/stdlib/pull/11904)
+
+</section>
+
+<!-- /.bug-fixes -->
 
 <section class="breaking-changes">
 
@@ -44,6 +57,10 @@
 
 <details>
 
+-   [`c5fad82`](https://github.com/stdlib-js/stdlib/commit/c5fad82b2d766118634d3796230c2158a4040d13) - **feat:** add `dcorrelation` to namespace _(by Athan Reines)_
+-   [`a65e1fd`](https://github.com/stdlib-js/stdlib/commit/a65e1fd9f921616b23244200dc09c0f87981a1c5) - **fix:** add suffix wrappers and replace inline NaN literal [(#11947)](https://github.com/stdlib-js/stdlib/pull/11947) _(by Nakul Krishnakumar)_
+-   [`73653a2`](https://github.com/stdlib-js/stdlib/commit/73653a29dcd13f29dc66c1ceaf02a482606aca0a) - **feat:** add `stats/strided/distances/dcorrelation` [(#11917)](https://github.com/stdlib-js/stdlib/pull/11917) _(by Nakul Krishnakumar, Athan Reines)_
+-   [`8516750`](https://github.com/stdlib-js/stdlib/commit/851675024a46ddac355e48493759d1e793a1de8a) - **fix:** add missing suffix wrappers [(#11904)](https://github.com/stdlib-js/stdlib/pull/11904) _(by Philipp Burckhardt)_
 -   [`8041e27`](https://github.com/stdlib-js/stdlib/commit/8041e27c906d582e5a32a1edd599b9ea12422219) - **docs:** update markup [(#10852)](https://github.com/stdlib-js/stdlib/pull/10852) _(by stdlib-bot)_
 -   [`b2dc6c7`](https://github.com/stdlib-js/stdlib/commit/b2dc6c7d1107be6c9bc2accfb56a703c2c81ea37) - **refactor:** remove redundant code from `stats/strided/distances/dcityblock` [(#10690)](https://github.com/stdlib-js/stdlib/pull/10690) _(by Nakul Krishnakumar)_
 -   [`278b4c0`](https://github.com/stdlib-js/stdlib/commit/278b4c0aa7da4e546722a9b5e91c4889b8fcdae8) - **feat:** update `stats/strided/distances` TypeScript declarations [(#10667)](https://github.com/stdlib-js/stdlib/pull/10667) _(by stdlib-bot)_

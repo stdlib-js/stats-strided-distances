@@ -38,6 +38,7 @@
   "dependencies": {
     "@stdlib/stats-strided-distances-dchebyshev": "github:stdlib-js/stats-strided-distances-dchebyshev#main",
     "@stdlib/stats-strided-distances-dcityblock": "^0.1.1",
+    "@stdlib/stats-strided-distances-dcorrelation": "github:stdlib-js/stats-strided-distances-dcorrelation#main",
     "@stdlib/stats-strided-distances-dcosine-distance": "^0.0.1",
     "@stdlib/stats-strided-distances-dcosine-similarity": "^0.1.1",
     "@stdlib/stats-strided-distances-deuclidean": "^0.1.1",
@@ -61,6 +62,7 @@
     "@stdlib/math-base-special-sqrt": "^0.2.3",
     "@stdlib/random-array-discrete-uniform": "^0.2.2",
     "@stdlib/random-array-uniform": "^0.2.2",
+    "@stdlib/stats-strided-dpcorr": "github:stdlib-js/stats-strided-dpcorr#main",
     "@stdlib/strided-base-stride2offset": "^0.1.1",
     "@stdlib/string-format": "^0.2.3",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.3",
