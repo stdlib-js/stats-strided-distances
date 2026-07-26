@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-09)
+## Unreleased (2026-07-26)
 
 <section class="features">
 
@@ -58,6 +58,8 @@
 
 <details>
 
+-   [`b42091b`](https://github.com/stdlib-js/stdlib/commit/b42091b5ada8ff53c4b448623145c43ad9d097aa) - **docs:** align JSDoc and C comments [(#12911)](https://github.com/stdlib-js/stdlib/pull/12911) _(by Philipp Burckhardt, Athan Reines)_
+-   [`56f1b9b`](https://github.com/stdlib-js/stdlib/commit/56f1b9b0b7979f0ed7c02953c6aad836246017d7) - **docs:** update parameter type and add keyword [(#12729)](https://github.com/stdlib-js/stdlib/pull/12729) _(by Philipp Burckhardt)_
 -   [`af06cd9`](https://github.com/stdlib-js/stdlib/commit/af06cd9468ea27ec0cc0c05eff186e5f2ce5373a) - **feat:** update `stats/strided/distances` TypeScript declarations [(#12616)](https://github.com/stdlib-js/stdlib/pull/12616) _(by stdlib-bot)_
 -   [`eb16cda`](https://github.com/stdlib-js/stdlib/commit/eb16cda7c4554147bfa724f0ee9a24fcf0422d18) - **docs:** update related packages sections [(#12414)](https://github.com/stdlib-js/stdlib/pull/12414) _(by stdlib-bot)_
 -   [`7acb10f`](https://github.com/stdlib-js/stdlib/commit/7acb10fe279a12ff58df34a3d847828606cd0acd) - **docs:** update namespace table of contents [(#11961)](https://github.com/stdlib-js/stdlib/pull/11961) _(by stdlib-bot)_
